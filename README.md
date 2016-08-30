@@ -1,4 +1,4 @@
-photocode
+#photocode
 
 Code from an undergrad CS course about digital photography as offered in 2012.  Written in Python.
 
